@@ -7,3 +7,4 @@ The bot provides a few commands: "!vthelp" which lists all available commands. "
 
 The bot also monitors all messages for a message like "vore" (specifically, case-insensitive, accent-insensitive, ensuring there are word-breaks on either side of the phrase), and will reset the server's counter if it finds a message containing a match after calling out the user publically. After calling out one user, the bot will silently reset the counter until a half hour has passed since its last callout (This may change to be admin configurable later).
 
+h
